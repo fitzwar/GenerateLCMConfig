@@ -1,4 +1,4 @@
-﻿####This configures the LCMConfig - Push###
+﻿####This configures the LCMConfig
 ##
 ##
 ##
