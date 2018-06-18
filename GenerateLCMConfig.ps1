@@ -1,5 +1,7 @@
 ﻿####This configures the LCMConfig - Push###
 ##
+##
+##
 configuration LCMConfig {
 #parameters
     param([string[]]$computername = "localhost")
